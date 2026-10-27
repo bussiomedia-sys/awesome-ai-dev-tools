@@ -943,6 +943,8 @@ This comprehensive list showcases the latest and greatest AI-powered development
 
 **[TEXT2SQL.AI](https://www.text2sql.ai/)** - An AI tool for SQL query translation and explanation.
 
+**[The Hive Code](https://thehivecode.ai/)** - Free community board where people post and back software ideas for builders to take on with AI coding agents, with a person approving every change. Includes a free in-browser HIVE.md generator and checker. Early stage.
+
 **[Theia IDE](https://theia-ide.org/#theiaide)** - An extensible open-source IDE (web and desktop) with Theia Coder, an AI-powered coding agent that can browse workspaces, propose code changes, and automatically detect and fix issues, with Edit Mode and Agent Mode options.
 
 **[thurbox](https://github.com/Thurbeen/thurbox)** - Multi-session TUI orchestrator that runs many coding-agent CLIs (Claude Code, Codex, opencode, Aider, Copilot, and any CLI you define) in persistent tmux sessions, with git worktree isolation, remote SSH sessions, inter-session messaging, and a native code-review view. ([thurbox.thurbeen.eu](https://thurbox.thurbeen.eu))
